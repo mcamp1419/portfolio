@@ -1,0 +1,52 @@
+/* * = = every element */
+* { 
+    box-sizing: border-box;
+}
+body {
+    margin: 0;
+    font-family: Arial;
+}
+
+/* font colors */
+.text-primary {
+    color: rgb(3, 100, 32);
+}
+
+.text-secondary {
+    color:crimson;
+}
+
+.text-success {
+    color: goldenrod;
+}
+
+/* Background colors */
+
+.bg-primary {
+    background-color: black;
+}
+
+.bg-secondary {
+    background-color:darkgreen;
+}
+
+.bg-success {
+    background-color: darkslategrey;
+}
+
+/* borders */
+.border {
+    border-width: 1px;
+    border-style: solid;
+}
+
+/* button classes */
+.btn {
+    padding: 10px;
+    border: 2px solid transparent;
+    border-radius: 5px;
+}
+.btn-primary {
+    background-color: seagreen;
+    color: snow;
+}
