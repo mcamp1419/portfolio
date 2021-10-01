@@ -1,5 +1,7 @@
-console.log("it works")
-
+/*
+LESSON 5!!! 
+BELOW ARE EXAMPLES OF VARIABLE TYPES!
+*/
 // [BOOLEAN] these are boolean variables
 let lifeIsGood = true
 console.log(lifeIsGood)
@@ -36,11 +38,11 @@ console.log(myUndefined)
 
 // [NOTES]
 console.log('is null the same as undefined? no, it is not')
-//This will compare them log false
+// Log the output of the comparison. This will spit out "false"
 console.log(null == undefined)
 
 console.log('is null the same as 0? no, it is not')
-//This will log "false"
+// Log the output of the comparison. This will spit out "false"
 console.log(null == 0)
 
 
