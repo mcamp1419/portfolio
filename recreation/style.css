@@ -1,0 +1,11 @@
+.home-bg {
+    background-position: center;
+    background-size: cover;
+    background-image: url(./images/home-bg.jpeg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+
+.home-bg-overlay {
+    background-color: rgba(0, 0, 0, 0.70);
+}
